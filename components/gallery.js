@@ -10,7 +10,7 @@ const Component = () => (
   <>
     <Masonry
       key="masonry"
-      sx={{ bg: "#49FFB9", py: [4, 5] }}
+      sx={{ bg: "green", py: [4, 5] }}
       breakpointCols={{
         10000: 4,
         1024: 3,
