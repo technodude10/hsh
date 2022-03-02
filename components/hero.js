@@ -15,7 +15,7 @@ const Component = () => {
         position: "relative",
       }}
     >
-      <h1 sx={{ my: [0], fontSize: [4, 4, 5] }}>🎉 Happy Birthday Harsh 🎉</h1>
+      <h1 sx={{ my: [0], fontSize: [4, 4, 5] }}>Happy Birthday Harsh 🎉</h1>
       <p sx={{ fontSize: [1], mt: [1] }}>
         Happy Birthday to the Super Coder of Hack Club APAC
       </p>
