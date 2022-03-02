@@ -9,7 +9,8 @@ const Page = () => {
   const [play] = useSound("./music.mp3");
 
   useEffect(() => {
-    play();
+    //uncomment to play music
+    //play(); 
   });
 
   return (
