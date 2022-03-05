@@ -10,7 +10,7 @@ const Page = () => {
 
   useEffect(() => {
     //uncomment to play music
-    //play(); 
+    play(); 
   });
 
   return (
